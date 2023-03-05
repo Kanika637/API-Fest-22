@@ -1,13 +1,13 @@
 import React from "react";
 import "../styling/Explore.css";
-import tech from "../images/tech.png";
-import crypto from "../images/Crypto.png";
-import e from "../images/commerce.png";
-import market from "../images/marketing.png";
-import invest from "../images/invest.png";
-import enter from "../images/enter.png";
-import poetry from "../images/poet.png";
-import health from "../images/health.png";
+import tech from "../Images/tech.png";
+import crypto from "../Images/Crypto.png";
+import e from "../Images/commerce.png";
+import market from "../Images/marketing.png";
+import invest from "../Images/invest.png";
+import enter from "../Images/enter.png";
+import poetry from "../Images/poet.png";
+import health from "../Images/health.png";
 
 let name;
 

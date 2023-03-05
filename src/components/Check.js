@@ -1,6 +1,6 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
-import logo from '../images/Community.png'
+import logo from '../Images/Community.png'
 
 import { Navbar, Container,  Nav } from 'react-bootstrap'; 
 

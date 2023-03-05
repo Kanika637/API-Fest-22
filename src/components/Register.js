@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import {Link} from 'react-router-dom';
 import "../styling/register.css"
-import signinImage from '../images/2.jpg';
+import signinImage from '../Images/2.jpg';
 
 const Register = () => {
 

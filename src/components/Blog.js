@@ -1,11 +1,11 @@
 import React from 'react';
 import '../styling/Blog.css';
 import Article from './Article';
-import Apple from '../images/Apple.jpg';
-import Music from '../images/Music.jpg';
-import Bitcoin from '../images/Bitcoin.jpg';
-import Poetry from '../images/Poetry.jpg';
-import Health from '../images/Health.jpg';
+import Apple from '../Images/Apple.jpg';
+import Music from '../Images/Music.jpg';
+import Bitcoin from '../Images/Bitcoin.jpg';
+import Poetry from '../Images/Poetry.jpg';
+import Health from '../Images/Health.jpg';
 
 
 const Blogs = () => (

@@ -1,10 +1,10 @@
 import React from 'react';
 import '../styling/Header.css';
-import dribble from '../images/dribble.png';
-import side from '../images/Header-lower.png';
+import dribble from '../Images/dribble.png';
+import side from '../Images/Header-lower.png';
 import 'font-awesome/css/font-awesome.min.css';
 import TiltPhaseSix from './TiltPhase';
-import community from '../images/Community.png'
+import community from '../Images/Community.png'
 
 
 

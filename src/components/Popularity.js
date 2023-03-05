@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styling/Popularity.css';
-import arrow from '../images/Arrow.png'
+import arrow from '../Images/Arrow.png'
 
 const Popularity = ({ imgCeleb, type, name}) => (
   <div className="celeb">
